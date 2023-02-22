@@ -53,3 +53,23 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# Site settings
+title: Divided by 0
+email: andrewsosanya@gmail.com
+description: "Sosa's Personal Website"
+baseurl: ""
+url: "http://drewsosa.github.io"
+twitter_username: sosanyo
+github_username: DrewSosa
+plugins:
+  - jekyll-feed
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
