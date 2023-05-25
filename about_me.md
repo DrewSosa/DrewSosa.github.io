@@ -2,10 +2,12 @@
 layout: page
 permalink: /about_me/
 includelink: true
+redirect_from:
+  - /
 ---
 
-<div class="imgcap_noborder">
-  <img src="/static/personal/sosa_tulips.jpeg" width="30%" class="center">
+<div class="imgcap_noborder" style="text-align: center">
+  <img src="/static/personal/sosa_tulips.jpeg" width="30%">
 </div>
 
 ## About me
@@ -13,19 +15,19 @@ includelink: true
 Hi, I’m Sosa! I’m a researcher and software engineer primarily interested in how we can meld powerful technologies with pragmatic policies that improve quality of life—for all. Currently, I work as a machine-learning engineer at[SandboxAQ,](http://sandboxaq.com).
 
 
-I currently reside in **Brooklyn, NY** 📍. If you don't have my email, the best way to reach me is via **[Twitter DM](https://twitter.com/Sosanyo)
+I currently reside in **Brooklyn, NY** 📍. Best way to reach me is email @ `${first_name}${last_name}@gmail.com.` 
 
 
 Here’s what I’m working on at the moment. 
 
 - **Creating an unjammable, unspoofable GPS-alternative** using quantum sensing and AI as a ML Engin**eer at SandboxAQ.
 - **Building Marble Labs**
-with [Kelvin Yu](https://twitter.com/kelvinotcelsius)****************** to empower technologists and policymakers to work together and build public goods that solve national and global challenges.
+with **[Kelvin Yu](https://twitter.com/kelvinotcelsius)** to empower technologists and policymakers to work together and build public goods that solve national and global challenges.
 - **Exploring how AI is enacting the second generation of scientific computing** in a series of essays with [Tanisha Bassan](https://twitter.com/tanishabassan).
 - **Playing jazz and angsty rock tunes in Brooklyn.** I owe many thanks to my dear friend [Mathias](https://www.linkedin.com/in/mathias-van-regemortel-763328a2/?originalSubdomain=be) who introduced me to guitar and jazz music.
 
 
-You can follow me on [Twitter](https://twitter.com/sosanyo?lang=en), [Github](https://github.com/DrewSosa), and [Linkedin](https://www.linkedin.com/in/sosanya/). [Favicons here]
+You can follow me on [Twitter](https://twitter.com/sosanyo?lang=en), [Github](https://github.com/DrewSosa), and [Linkedin](https://www.linkedin.com/in/sosanya/).
 
 ### **Past work**
 
@@ -57,14 +59,15 @@ We’ll see if I do anything else noteworthy.
 * 2021 - Independent National Security Consultant
 * 2020 - Science & Technology Policy Analyst at the Day One Project
 * 2020 – Senior Honors Thesis on Autonomous Weapons with William Wohlforth
-* 2019 – Astrophysics Research at the South African Large Telescope (SALT) with John Thorstenson
+* 2019 – Astrophysics Research at the [South African Large Telescope] (https://www.salt.ac.za/) (SALT) with John Thorstenson
 * 2018 – NASA NuStar Astrophysics Fellow at [Caltech](caltech.edu)
 * 2017 – [Dartmouth BALLOON Group](https://www.nasa.gov/mission-pages/rbsp/barrel/overview/) Geophysics Research with Robyn Millan
 * 2016 – Physics & Government major, Dartmouth College
 
 
+<!-- 
 <div class="imgcap_noborder" style="display: block; margin-left: auto; margin-right: auto; width:60%">
   <div style="width:99%; min-width:300px; display: inline-block; vertical-align: top;">
     <img src="/assets/justification/scrollwork.jpg" style="width:100%">
   </div>
-</div>
+</div> --> -->
